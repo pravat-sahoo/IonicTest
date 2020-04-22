@@ -1,7 +1,8 @@
 {
   "name": "ContactMe",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {},
+    "cordova": {}
   },
   "type": "angular"
 }
